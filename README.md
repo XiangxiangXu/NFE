@@ -1,2 +1,2 @@
-# NFL
-Neural Feature Learning
+# NFE
+Neural Feature Engineering
