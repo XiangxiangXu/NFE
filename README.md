@@ -20,5 +20,5 @@ This repo collects implementations of **feature geometry**, a mathematical frame
 
 
 ## [Sequential Dependence Decomposition and Feature Learning](https://ieeexplore.ieee.org/document/10313384) 
-Sequential Dependence Decomposition
-- [SEQ](https://github.com/XiangxiangXu/NFE/blob/main/SEQ.ipynb): Demo for 
+### Sequential Dependence Decomposition 
+- [SEQ](https://github.com/XiangxiangXu/NFE/blob/main/SEQ.ipynb)
