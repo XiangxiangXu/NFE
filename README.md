@@ -1,5 +1,9 @@
-# Neural Feature Engineering
-Experiments in [A Geometric Framework for Neural Feature Learning](https://arxiv.org/pdf/2309.10140.pdf)
+# Neural Feature Engineering: Dependence Learning with DNNS as Building Blocks
+
+This repo contains implementations of [A Geometric Framework for Neural Feature Learning](https://arxiv.org/pdf/2309.10140.pdf).
+
+
+
 ### Learning Modal Decomposition
 - [Nested_H_Score](https://github.com/XiangxiangXu/NFE/blob/main/Nested_H_Score.ipynb)
 - [H_score_Seq](https://github.com/XiangxiangXu/NFE/blob/main/H_score_Seq.ipynb)
