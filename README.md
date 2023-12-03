@@ -2,6 +2,8 @@
 
 This repo collects implementations of **feature geometry**, a mathematical framework designed for principled dependence Learning with deep neural networks as building blocks.
 
+![Fig1](https://github.com/XiangxiangXu/NFE/blob/main/fig1.png)
+
 ## [A Geometric Framework for Neural Feature Learning](https://arxiv.org/pdf/2309.10140.pdf)
 
 ### Learning Modal Decomposition
