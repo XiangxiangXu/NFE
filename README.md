@@ -1,8 +1,8 @@
-# Neural Feature Engineering: Dependence Learning with DNNS as Building Blocks
+# Neural Feature Engineering
 
-This repo contains implementations of [A Geometric Framework for Neural Feature Learning](https://arxiv.org/pdf/2309.10140.pdf).
+This repo collects implementations of feature geometry, a mathematical framework designed for principled dependence Learning with deep neural networks as building blocks.
 
-
+## [A Geometric Framework for Neural Feature Learning](https://arxiv.org/pdf/2309.10140.pdf)
 
 ### Learning Modal Decomposition
 - [Nested_H_Score](https://github.com/XiangxiangXu/NFE/blob/main/Nested_H_Score.ipynb)
@@ -18,8 +18,7 @@ This repo contains implementations of [A Geometric Framework for Neural Feature 
 - [mm_cosine](https://github.com/XiangxiangXu/NFE/blob/main/mm_cosine.ipynb)
 - [mm_pair_cosine](https://github.com/XiangxiangXu/NFE/blob/main/mm_pair_cosine.ipynb)
 
----
-## Extension
 
-### Sequential Dependence Decomposition
-- [SEQ](https://github.com/XiangxiangXu/NFE/blob/main/SEQ.ipynb): Demo for [Sequential Dependence Decomposition and Feature Learning](https://ieeexplore.ieee.org/document/10313384)
+## [Sequential Dependence Decomposition and Feature Learning](https://ieeexplore.ieee.org/document/10313384) 
+Sequential Dependence Decomposition
+- [SEQ](https://github.com/XiangxiangXu/NFE/blob/main/SEQ.ipynb): Demo for 
