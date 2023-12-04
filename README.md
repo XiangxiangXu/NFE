@@ -1,6 +1,6 @@
 # Neural Feature Engineering
 
-This repo collects implementations of **feature geometry**, a mathematical framework designed for principled dependence Learning with deep neural networks as building blocks.
+This repo collects implementations of **feature geometry**, a mathematical framework designed for principled dependence learning with deep neural networks as building blocks.
 
 ![Fig1](https://github.com/XiangxiangXu/NFE/blob/main/fig1.png)
 
