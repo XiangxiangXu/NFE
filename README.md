@@ -11,10 +11,10 @@ This repo collects implementations of **feature geometry**, a mathematical frame
 - [H_score_Seq](https://github.com/XiangxiangXu/NFE/blob/main/H_score_Seq.ipynb)
 - [MaxCorr_Normal](https://github.com/XiangxiangXu/NFE/blob/main/MaxCorr_Normal.ipynb): compute maximal correlation functions for normal variables
 
-### Learning with Orthogonality Constraints
+### Learning With Orthogonality Constraints
 - [f_orth_cosine](https://github.com/XiangxiangXu/NFE/blob/main/f_orth_cosine.ipynb)
 
-### Learning with Side Information (Conditioned Inference)
+### Learning With Side Information (Conditioned Inference)
 - [SideInfo_multihead](https://github.com/XiangxiangXu/NFE/blob/main/SideInfo_multihead.ipynb)
   
 ### Multimodal Learning With Missing Modalities
