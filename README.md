@@ -6,12 +6,14 @@ This repo collects implementations of **feature geometry**, a mathematical frame
 
 ## [A Geometric Framework for Neural Feature Learning](https://arxiv.org/pdf/2309.10140.pdf)
 
-### Learning Modal Decomposition (Hirschfeld-Gebelein-Rényi (HGR) maximal correlation functions)
+### Learning Modal Decomposition 
+Hirschfeld-Gebelein-Rényi (HGR) maximal correlation functions
 - [Nested_H_Score](https://github.com/XiangxiangXu/NFE/blob/main/Nested_H_Score.ipynb)
 - [H_score_Seq](https://github.com/XiangxiangXu/NFE/blob/main/H_score_Seq.ipynb)
 - [MaxCorr_Normal](https://github.com/XiangxiangXu/NFE/blob/main/MaxCorr_Normal.ipynb): compute maximal correlation functions for normal variables
 
 ### Learning With Orthogonality Constraints
+Learn features uncorrelated with given features
 - [f_orth_cosine](https://github.com/XiangxiangXu/NFE/blob/main/f_orth_cosine.ipynb)
 
 ### Learning With Side Information (Conditioned Inference)
