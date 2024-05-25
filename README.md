@@ -1,10 +1,10 @@
 # Neural Feature Engineering
 
-This repo collects implementations of **feature geometry**, a mathematical framework designed for principled dependence learning with deep neural networks as building blocks.
+This repo collects implementations of **feature geometry**, a mathematical framework designed for principled representation learning with deep neural networks as building blocks.
 
 ![Fig1](https://github.com/XiangxiangXu/NFE/blob/main/fig1.png)
 
-## [A Geometric Framework for Neural Feature Learning](https://arxiv.org/pdf/2309.10140.pdf)
+## [Neural Feature Learning in Function Space](https://arxiv.org/pdf/2309.10140.pdf)
 
 ### Learning Modal Decomposition 
 Hirschfeld-Gebelein-Rényi (HGR) maximal correlation functions
