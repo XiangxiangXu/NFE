@@ -30,5 +30,7 @@ Learn features uncorrelated with given features
 
 # References 
 [1] Xu, Xiangxiang, and Shao-Lun Huang. "Maximal correlation regression." IEEE Access 8 (2020): 26591-26601.
+
 [2] Xu, Xiangxiang, and Lizhong Zheng. "Sequential Dependence Decomposition and Feature Learning." 2023 59th Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2023.
+
 [3] Xu, Xiangxiang, and Lizhong Zheng. "Neural Feature Learning in Function Space." arXiv preprint arXiv:2309.10140 (2024).
