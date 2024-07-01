@@ -4,7 +4,7 @@ This repo collects implementations of **feature geometry**, a mathematical frame
 
 ![Fig1](https://github.com/XiangxiangXu/NFE/blob/main/fig1.png)
 
-## [Neural Feature Learning in Function Space](https://arxiv.org/pdf/2309.10140.pdf)
+## [Neural Feature Learning in Function Space](https://www.jmlr.org/papers/v25/23-1202.html)
 
 ### Learning Modal Decomposition 
 Hirschfeld-Gebelein-Rényi (HGR) maximal correlation functions
@@ -29,7 +29,7 @@ Learn features uncorrelated with given features
 - [SEQ](https://github.com/XiangxiangXu/NFE/blob/main/SEQ.ipynb): decomposing sequential dependence into Markov chains of different orders.
 
 # References 
-[1] Xu, Xiangxiang, and Shao-Lun Huang. "Maximal correlation regression." IEEE Access 8 (2020): 26591-26601.
+[1] Xu, Xiangxiang, and Shao-Lun Huang. ["Maximal correlation regression."](https://github.com/XiangxiangXu/MCR) IEEE Access 8 (2020): 26591-26601.
 
 [2] Xu, Xiangxiang, and Lizhong Zheng. "Sequential Dependence Decomposition and Feature Learning." 2023 59th Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2023.
 
